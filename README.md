@@ -8,3 +8,6 @@ Please note that we have implemented Naive Bayes using this ShatterLine Blog (No
 Naive Bayes is a classification algorithm based on Bayes' theorem, which describes the probability of an event based on prior knowledge or conditions. It is known as "naive" because it makes a strong assumption of independence among the features or attributes of the data.
 
 The algorithm is widely used for text classification, spam filtering, sentiment analysis, and various other machine learning tasks.
+
+
+![image](https://github.com/ramangarg007/Naive-Bayse-from-Scratch/assets/15136599/3e25255b-4f25-4f1f-b54a-af6a72ae1bba)
